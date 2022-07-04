@@ -1,0 +1,12 @@
+C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.Contracts\bin\Debug\net6.0\UberEats.Contracts.deps.json
+C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.Contracts\bin\Debug\net6.0\UberEats.Contracts.dll
+C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.Contracts\bin\Debug\net6.0\UberEats.Contracts.pdb
+C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.Contracts\obj\Debug\net6.0\UberEats.Contracts.csproj.AssemblyReference.cache
+C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.Contracts\obj\Debug\net6.0\UberEats.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.Contracts\obj\Debug\net6.0\UberEats.Contracts.AssemblyInfoInputs.cache
+C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.Contracts\obj\Debug\net6.0\UberEats.Contracts.AssemblyInfo.cs
+C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.Contracts\obj\Debug\net6.0\UberEats.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.Contracts\obj\Debug\net6.0\UberEats.Contracts.dll
+C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.Contracts\obj\Debug\net6.0\refint\UberEats.Contracts.dll
+C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.Contracts\obj\Debug\net6.0\UberEats.Contracts.pdb
+C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.Contracts\obj\Debug\net6.0\ref\UberEats.Contracts.dll

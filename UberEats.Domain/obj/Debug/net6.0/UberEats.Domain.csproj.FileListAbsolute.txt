@@ -1,0 +1,12 @@
+C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.Domain\bin\Debug\net6.0\UberEats.Domain.deps.json
+C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.Domain\bin\Debug\net6.0\UberEats.Domain.dll
+C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.Domain\bin\Debug\net6.0\UberEats.Domain.pdb
+C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.Domain\obj\Debug\net6.0\UberEats.Domain.csproj.AssemblyReference.cache
+C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.Domain\obj\Debug\net6.0\UberEats.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.Domain\obj\Debug\net6.0\UberEats.Domain.AssemblyInfoInputs.cache
+C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.Domain\obj\Debug\net6.0\UberEats.Domain.AssemblyInfo.cs
+C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.Domain\obj\Debug\net6.0\UberEats.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.Domain\obj\Debug\net6.0\UberEats.Domain.dll
+C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.Domain\obj\Debug\net6.0\refint\UberEats.Domain.dll
+C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.Domain\obj\Debug\net6.0\UberEats.Domain.pdb
+C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.Domain\obj\Debug\net6.0\ref\UberEats.Domain.dll

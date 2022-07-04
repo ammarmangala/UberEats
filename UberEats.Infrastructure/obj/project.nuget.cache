@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "YmKRQAUMhpyQoQHW6ey3kbYgh7EoFuAC6bMmIR7DNeZ4fEaAmYdtFaHZs8k/utRwSvtla/v8NwU1BUCtQa36wQ==",
+  "dgSpecHash": "itt1mKu5MVn5rJxOdV3YR1+fNlu1h1wW5f4XGm10QHzrcZFmyJBXPZTSrFkPyt36lxBVAVlwp7qHDZdZUzzXIg==",
   "success": true,
   "projectFilePath": "C:\\Users\\ammar\\Documents\\Repositories\\c-sharp\\UberEats\\UberEats.Infrastructure\\UberEats.Infrastructure.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\ammar\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "C:\\Users\\ammar\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\ammar\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
-    "C:\\Users\\ammar\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
-    "C:\\Users\\ammar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "C:\\Users\\ammar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

@@ -25,3 +25,11 @@ C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.API\obj\Debug\ne
 C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.API\obj\Debug\net6.0\UberEats.API.pdb
 C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.API\obj\Debug\net6.0\UberEats.API.genruntimeconfig.cache
 C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.API\obj\Debug\net6.0\ref\UberEats.API.dll
+C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.API\bin\Debug\net6.0\UberEats.Application.dll
+C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.API\bin\Debug\net6.0\UberEats.Contracts.dll
+C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.API\bin\Debug\net6.0\UberEats.Domain.dll
+C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.API\bin\Debug\net6.0\UberEats.Infrastructure.dll
+C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.API\bin\Debug\net6.0\UberEats.Contracts.pdb
+C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.API\bin\Debug\net6.0\UberEats.Application.pdb
+C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.API\bin\Debug\net6.0\UberEats.Infrastructure.pdb
+C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.API\bin\Debug\net6.0\UberEats.Domain.pdb

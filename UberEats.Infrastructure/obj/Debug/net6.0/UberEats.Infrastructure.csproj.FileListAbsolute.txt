@@ -10,3 +10,8 @@ C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.Infrastructure\o
 C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.Infrastructure\obj\Debug\net6.0\refint\UberEats.Infrastructure.dll
 C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.Infrastructure\obj\Debug\net6.0\UberEats.Infrastructure.pdb
 C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.Infrastructure\obj\Debug\net6.0\ref\UberEats.Infrastructure.dll
+C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.Infrastructure\bin\Debug\net6.0\UberEats.Application.dll
+C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.Infrastructure\bin\Debug\net6.0\UberEats.Domain.dll
+C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.Infrastructure\bin\Debug\net6.0\UberEats.Application.pdb
+C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.Infrastructure\bin\Debug\net6.0\UberEats.Domain.pdb
+C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.Infrastructure\obj\Debug\net6.0\UberEats.Infrastructure.csproj.CopyComplete

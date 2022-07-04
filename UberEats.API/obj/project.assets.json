@@ -105,6 +105,19 @@
         "runtime": {
           "bin/placeholder/UberEats.Domain.dll": {}
         }
+      },
+      "UberEats.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "UberEats.Application": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/UberEats.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/UberEats.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -248,13 +261,19 @@
       "type": "project",
       "path": "../UberEats.Domain/UberEats.Domain.csproj",
       "msbuildProject": "../UberEats.Domain/UberEats.Domain.csproj"
+    },
+    "UberEats.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../UberEats.Infrastructure/UberEats.Infrastructure.csproj",
+      "msbuildProject": "../UberEats.Infrastructure/UberEats.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "Swashbuckle.AspNetCore >= 6.2.3",
       "UberEats.Application >= 1.0.0",
-      "UberEats.Contracts >= 1.0.0"
+      "UberEats.Contracts >= 1.0.0",
+      "UberEats.Infrastructure >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -289,6 +308,9 @@
             },
             "C:\\Users\\ammar\\Documents\\Repositories\\c-sharp\\UberEats\\UberEats.Contracts\\UberEats.Contracts.csproj": {
               "projectPath": "C:\\Users\\ammar\\Documents\\Repositories\\c-sharp\\UberEats\\UberEats.Contracts\\UberEats.Contracts.csproj"
+            },
+            "C:\\Users\\ammar\\Documents\\Repositories\\c-sharp\\UberEats\\UberEats.Infrastructure\\UberEats.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\ammar\\Documents\\Repositories\\c-sharp\\UberEats\\UberEats.Infrastructure\\UberEats.Infrastructure.csproj"
             }
           }
         }

@@ -7,14 +7,40 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "UberEats.Infrastructure/1.0.0": {
+        "dependencies": {
+          "UberEats.Application": "1.0.0"
+        },
         "runtime": {
           "UberEats.Infrastructure.dll": {}
+        }
+      },
+      "UberEats.Application/1.0.0": {
+        "dependencies": {
+          "UberEats.Domain": "1.0.0"
+        },
+        "runtime": {
+          "UberEats.Application.dll": {}
+        }
+      },
+      "UberEats.Domain/1.0.0": {
+        "runtime": {
+          "UberEats.Domain.dll": {}
         }
       }
     }
   },
   "libraries": {
     "UberEats.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UberEats.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UberEats.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

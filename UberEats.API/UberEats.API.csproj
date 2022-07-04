@@ -13,6 +13,7 @@
   <ItemGroup>
     <ProjectReference Include="..\UberEats.Contracts\UberEats.Contracts.csproj" />
     <ProjectReference Include="..\UberEats.Application\UberEats.Application.csproj" />
+    <ProjectReference Include="..\UberEats.Infrastructure\UberEats.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

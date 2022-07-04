@@ -4,76 +4,6 @@
     "C:\\Users\\ammar\\Documents\\Repositories\\c-sharp\\UberEats\\UberEats.Infrastructure\\UberEats.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ammar\\Documents\\Repositories\\c-sharp\\UberEats\\UberEats.API\\UberEats.API.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\ammar\\Documents\\Repositories\\c-sharp\\UberEats\\UberEats.API\\UberEats.API.csproj",
-        "projectName": "UberEats.API",
-        "projectPath": "C:\\Users\\ammar\\Documents\\Repositories\\c-sharp\\UberEats\\UberEats.API\\UberEats.API.csproj",
-        "packagesPath": "C:\\Users\\ammar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ammar\\Documents\\Repositories\\c-sharp\\UberEats\\UberEats.API\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\ammar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net6.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {
-              "C:\\Users\\ammar\\Documents\\Repositories\\c-sharp\\UberEats\\UberEats.Application\\UberEats.Application.csproj": {
-                "projectPath": "C:\\Users\\ammar\\Documents\\Repositories\\c-sharp\\UberEats\\UberEats.Application\\UberEats.Application.csproj"
-              },
-              "C:\\Users\\ammar\\Documents\\Repositories\\c-sharp\\UberEats\\UberEats.Contracts\\UberEats.Contracts.csproj": {
-                "projectPath": "C:\\Users\\ammar\\Documents\\Repositories\\c-sharp\\UberEats\\UberEats.Contracts\\UberEats.Contracts.csproj"
-              }
-            }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "dependencies": {
-            "Swashbuckle.AspNetCore": {
-              "target": "Package",
-              "version": "[6.2.3, )"
-            }
-          },
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
     "C:\\Users\\ammar\\Documents\\Repositories\\c-sharp\\UberEats\\UberEats.Application\\UberEats.Application.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -102,60 +32,6 @@
                 "projectPath": "C:\\Users\\ammar\\Documents\\Repositories\\c-sharp\\UberEats\\UberEats.Domain\\UberEats.Domain.csproj"
               }
             }
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
-          "imports": [
-            "net461",
-            "net462",
-            "net47",
-            "net471",
-            "net472",
-            "net48"
-          ],
-          "assetTargetFallback": true,
-          "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
-        }
-      }
-    },
-    "C:\\Users\\ammar\\Documents\\Repositories\\c-sharp\\UberEats\\UberEats.Contracts\\UberEats.Contracts.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Users\\ammar\\Documents\\Repositories\\c-sharp\\UberEats\\UberEats.Contracts\\UberEats.Contracts.csproj",
-        "projectName": "UberEats.Contracts",
-        "projectPath": "C:\\Users\\ammar\\Documents\\Repositories\\c-sharp\\UberEats\\UberEats.Contracts\\UberEats.Contracts.csproj",
-        "packagesPath": "C:\\Users\\ammar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ammar\\Documents\\Repositories\\c-sharp\\UberEats\\UberEats.Contracts\\obj\\",
-        "projectStyle": "PackageReference",
-        "configFilePaths": [
-          "C:\\Users\\ammar\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "net6.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "net6.0": {
-            "targetAlias": "net6.0",
-            "projectReferences": {}
           }
         },
         "warningProperties": {
@@ -264,9 +140,6 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ammar\\Documents\\Repositories\\c-sharp\\UberEats\\UberEats.API\\UberEats.API.csproj": {
-                "projectPath": "C:\\Users\\ammar\\Documents\\Repositories\\c-sharp\\UberEats\\UberEats.API\\UberEats.API.csproj"
-              },
               "C:\\Users\\ammar\\Documents\\Repositories\\c-sharp\\UberEats\\UberEats.Application\\UberEats.Application.csproj": {
                 "projectPath": "C:\\Users\\ammar\\Documents\\Repositories\\c-sharp\\UberEats\\UberEats.Application\\UberEats.Application.csproj"
               }
@@ -293,9 +166,6 @@
           "assetTargetFallback": true,
           "warn": true,
           "frameworkReferences": {
-            "Microsoft.AspNetCore.App": {
-              "privateAssets": "none"
-            },
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }

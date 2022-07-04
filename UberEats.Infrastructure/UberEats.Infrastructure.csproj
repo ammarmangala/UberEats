@@ -2,7 +2,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\UberEats.Application\UberEats.Application.csproj" />
-    <ProjectReference Include="..\UberEats.API\UberEats.API.csproj" />
   </ItemGroup>
 
   <PropertyGroup>

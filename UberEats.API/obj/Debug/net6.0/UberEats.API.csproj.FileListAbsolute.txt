@@ -5,16 +5,11 @@ C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.API\bin\Debug\ne
 C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.API\bin\Debug\net6.0\UberEats.API.runtimeconfig.json
 C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.API\bin\Debug\net6.0\UberEats.API.dll
 C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.API\bin\Debug\net6.0\UberEats.API.pdb
-C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
-C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.API\obj\Debug\net6.0\UberEats.API.csproj.AssemblyReference.cache
 C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.API\obj\Debug\net6.0\UberEats.API.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.API\obj\Debug\net6.0\UberEats.API.AssemblyInfoInputs.cache
 C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.API\obj\Debug\net6.0\UberEats.API.AssemblyInfo.cs
 C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.API\obj\Debug\net6.0\UberEats.API.csproj.CoreCompileInputs.cache
-C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.API\obj\Debug\net6.0\UberEats.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.API\obj\Debug\net6.0\UberEats.API.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.API\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\ammar\Documents\Repositories\c-sharp\UberEats\UberEats.API\obj\Debug\net6.0\staticwebassets.development.json
